@@ -1,0 +1,3 @@
+<template>
+    <ContactUs></ContactUs>
+</template>

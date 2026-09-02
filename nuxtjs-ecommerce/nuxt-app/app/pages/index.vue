@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <Slider></Slider>
+    <Features></Features>
+    <ProductTabs></ProductTabs>
+    <AboutUs></AboutUs>
+    <ContactUs></ContactUs>
+  </div>
+</template>

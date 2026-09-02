@@ -1,0 +1,3 @@
+<template>
+    <AboutUs></AboutUs>
+</template>
