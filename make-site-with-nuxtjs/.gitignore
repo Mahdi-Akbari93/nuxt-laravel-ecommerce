@@ -1,0 +1,21 @@
+# Kilo Code agent directory
+.kilo/
+
+# Temporary / template directories to exclude
+admin-panel-template/
+raw-code-i-need/
+
+# Environment files
+.env
+.env.*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build and cache outputs
+.nuxt/
+.output/
+dist/
+storage/*.key
+storage/logs/*
